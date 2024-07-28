@@ -4,13 +4,13 @@
 
 ## Hi there! 👋
 
-I'm **Mutale Kabamba**, a passionate professional with a background in managing IT, Sales, Marketing, and Finance. Currently, I'm working on an exciting business idea for a comprehensive travel booking platform in Livingstone, Zambia.
+I'm **Mutale Kabamba**, an IT Professional, Creative Designer, and Data Analyst. Currently, I am working at SPF & CM as Manager - IT, Marketing & Finance, and I am also the owner of Ori Studio, a startup Tech, Creative & Marketing Company. I have a passion for blending technology with creativity to solve problems and drive innovation.
 
 ### About Me
 
 - 📍 Livingstone, Zambia
-- 💼 Manager overseeing IT, Sales, Marketing, and Finance
-- 🌍 Working on a travel booking platform
+- 💼 Manager overseeing IT, Marketing, and Finance at SPF & CM
+- 🌍 Owner of Ori Studio, a startup Tech, Creative & Marketing Company
 - 📫 How to reach me: [thinker.net01@gmail.com](mailto:thinker.net01@gmail.com)
 
 ### Education
@@ -24,11 +24,27 @@ I'm **Mutale Kabamba**, a passionate professional with a background in managing 
 ### Projects
 
 #### Travel Booking Platform
-I'm developing a comprehensive travel booking platform designed to enhance travel experiences in Livingstone, Zambia. The platform aims to combine local knowledge with a multicultural approach, offering users a seamless and enriching travel experience.
+I'm collaborating on developing a comprehensive travel booking platform designed to enhance travel experiences in Livingstone, Zambia. The platform aims to combine local knowledge with a multicultural approach, offering users a seamless and enriching travel experience.
 
 ### Skills
 
-- **Design Software Proficiency**: Mastery of industry-standard design software (Photoshop, Illustrator, InDesign, etc.)
+- **Design Software Proficiency**: 
+  - ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+  - ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+  - ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
+  - ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-009639?style=for-the-badge&logo=coreldraw&logoColor=white)
+  - ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+  - ![Embroidery Studio](https://img.shields.io/badge/Embroidery_Studio-FF7D3E?style=for-the-badge&logoColor=white)
+- **Data Analysis Tools**:
+  - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  - ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+  - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Programming Languages**:
+  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Strong Visual Communication Skills**
 - **Creative Problem-Solving**
 - **Attention to Detail**
