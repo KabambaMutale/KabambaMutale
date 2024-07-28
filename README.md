@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile!
 
-![Header Image](https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080)
+![Header Image](https://images.unsplash.com/photo-1498050108023-c5249f4df085?crop=entropy&cs=tinysrgb&fit=crop&w=1200&h=300&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1
+)
 
 ## Hi there! 👋
 
@@ -71,5 +72,5 @@ I'm collaborating on developing a comprehensive travel booking platform designed
 
 Thanks for visiting my GitHub profile! Feel free to check out my projects, and don't hesitate to reach out if you have any questions or collaboration ideas.
 
-![Footer Image](https://images.unsplash.com/photo-1522199710521-72d69614c702?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080
+![Footer Image](https://images.unsplash.com/photo-1522199710521-72d69614c702?crop=entropy&cs=tinysrgb&fit=crop&w=1200&h=300&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1
 )
