@@ -23,8 +23,7 @@ I'm **Mutale Kabamba**, an IT Professional, Creative Designer, and Data Analyst.
 
 ### Projects
 
-#### Travel Booking Platform
-I'm developing a comprehensive travel booking platform designed to enhance travel experiences in Livingstone, Zambia. The platform aims to combine local knowledge with a multicultural approach, offering users a seamless and enriching travel experience.
+
 
 ### Skills
 
@@ -45,21 +44,11 @@ I'm developing a comprehensive travel booking platform designed to enhance trave
   - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **Strong Visual Communication Skills**
-- **Creative Problem-Solving**
-- **Attention to Detail**
-- **Layout & Composition**
-- **Collaboration and Teamwork**
-- **Time Management and Organization**
-- **Adaptability and Willingness to Learn**
-- **Printing & Embroidery**
-- **Web Design**
+
 
 ### Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/your_username/)
-- [Twitter](https://twitter.com/your_username)
-- [Email](mailto:thinker.net01@gmail.com)
+
 
 ### Fun Facts
 
