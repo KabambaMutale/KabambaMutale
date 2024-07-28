@@ -4,7 +4,7 @@
 
 ## Hi there! 👋
 
-I'm **Mutale Kabamba**, an IT Professional, Creative Designer, and Data Analyst. Currently, I am working at SPF & CM as Manager - IT, Marketing & Finance, and I am also the owner of Ori Studio, a startup Tech, Creative & Marketing Company. I have a passion for blending technology with creativity to solve problems and drive innovation.
+I'm **Mutale Kabamba**, a dynamic IT professional, Creative Designer, and Data Analyst. By day, I manage IT, Marketing, and Finance at SPF & CM Enterprises Limited. By night, I fuel my entrepreneurial spirit as the founder of Ori Studio, a cutting-edge tech and creative marketing startup. I thrive on merging technology with creativity to craft solutions that spark innovation and transform ideas into reality.
 
 ### About Me
 
