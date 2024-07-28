@@ -24,12 +24,11 @@ I'm **Mutale Kabamba**, a dynamic IT professional, Creative Designer, and Data A
 ### Projects
 
 
-
 ### Skills
 
-<table>
+<table style="width: 100%; vertical-align: top;">
   <tr>
-    <td>
+    <td style="vertical-align: top;">
       <strong>Design Software Proficiency:</strong><br>
       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"><br>
@@ -38,7 +37,7 @@ I'm **Mutale Kabamba**, a dynamic IT professional, Creative Designer, and Data A
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Embroidery_Studio-FF7D3E?style=for-the-badge&logoColor=white">
     </td>
-    <td>
+    <td style="vertical-align: top;">
       <strong>Data Analysis Tools:</strong><br>
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"><br>
@@ -46,7 +45,7 @@ I'm **Mutale Kabamba**, a dynamic IT professional, Creative Designer, and Data A
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </td>
-    <td>
+    <td style="vertical-align: top;">
       <strong>Programming Languages:</strong><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
